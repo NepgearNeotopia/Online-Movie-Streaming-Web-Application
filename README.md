@@ -6,15 +6,15 @@ A full-stack online movie streaming web application where users can browse, sear
 
 | No. | Name | Student ID |
 |---|---|---|
-| 1 | นายชินกร เทพพงษ์ประดิษฐ  1 | 660910487 |
-| 2 | นายนนนน วาสนานนท์      2 | 660910667 |
-| 3 | นายบูรณ์ภัทร์ บุญสูขเกิด    3 | 660910668 |
-| 4 | นายสิงหา ฝอยทับทิม      4 | 660911043 |
+| 1 | นายชินกร เทพพงษ์ประดิษฐ   | 660910487 |
+| 2 | นายนนนน วาสนานนท์       | 660910667 |
+| 3 | นายบูรณ์ภัทร์ บุญสูขเกิด      | 660910668 |
+| 4 | นายสิงหา ฝอยทับทิม        | 660911043 |
 
 
 ## Website Preview
 
-![Movie Streaming Website](docs/images/website-preview.png)
+![Movie Streaming Website](docs/website-preview.png)
 
 
 > **Scope:** This application streams individual movies only. It does not support multi-episode series or season/episode management.
