@@ -2,6 +2,21 @@
 
 A full-stack online movie streaming web application where users can browse, search, and watch movies, manage a personal favorites list, and administrators can manage the movie catalog.
 
+## Team Members
+
+| No. | Name | Student ID |
+|---|---|---|
+| 1 | นายชินกร เทพพงษ์ประดิษฐ  1 | 660910487 |
+| 2 | นายนนนน วาสนานนท์      2 | 660910667 |
+| 3 | นายบูรณ์ภัทร์ บุญสูขเกิด    3 | 660910668 |
+| 4 | นายสิงหา ฝอยทับทิม      4 | 660911043 |
+
+
+## Website Preview
+
+![Movie Streaming Website](docs/images/website-preview.png)
+
+
 > **Scope:** This application streams individual movies only. It does not support multi-episode series or season/episode management.
 
 ## Overview
