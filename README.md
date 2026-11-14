@@ -330,7 +330,3 @@ All favorites endpoints require authentication.
 | Variable | Required | Description |
 | --- | --- | --- |
 | `VITE_API_URL` | No | Base URL for API requests. Defaults to same-origin `/api` (Vite proxy). |
-
-## License
-
-MIT
